@@ -1,5 +1,13 @@
 # @backstage/create-app
 
+## 0.5.4-next.3
+
+### Patch Changes
+
+- 5cc0ac5ef3d1: Bump to a newer version of the `concurrently` library
+- Updated dependencies
+  - @backstage/cli-common@0.1.12
+
 ## 0.5.4-next.2
 
 ### Patch Changes

@@ -1,5 +1,20 @@
 # @backstage/plugin-kubernetes
 
+## 0.9.4-next.2
+
+### Patch Changes
+
+- 562e34d2693f: Fix container memory limits
+- Updated dependencies
+  - @backstage/catalog-model@1.4.1
+  - @backstage/config@1.0.8
+  - @backstage/core-components@0.13.4-next.0
+  - @backstage/core-plugin-api@1.5.3
+  - @backstage/errors@1.2.1
+  - @backstage/theme@0.4.1
+  - @backstage/plugin-catalog-react@1.8.1-next.1
+  - @backstage/plugin-kubernetes-common@0.6.5
+
 ## 0.9.4-next.1
 
 ### Patch Changes
