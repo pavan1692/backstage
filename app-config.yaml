@@ -20,7 +20,7 @@ app:
           - url: https://discord.gg/backstage-687207715902193673
             title: '#backstage'
 
-  packageName: example-app
+  packageName: pavan app
 
 backend:
   # Used for enabling authentication, secret is shared by all backend plugins
